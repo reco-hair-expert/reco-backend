@@ -24,6 +24,9 @@
     "@nestjs/config": "^4.0.1",
     "@nestjs/core": "^11.0.1",
     "@nestjs/platform-express": "^11.0.1",
+    "@nestjs/swagger": "^11.0.7",
+    "@types/node-telegram-bot-api": "^0.64.8",
+    "node-telegram-bot-api": "^0.66.0",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
   },
